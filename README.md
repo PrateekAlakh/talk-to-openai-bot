@@ -19,7 +19,7 @@ This code implements an AI chatbot using the OpenAI API and Google Text-to-Speec
 1. Clone the repository
 2. Install the required libraries.
 3. Obtain an OpenAI API key and set it as an environment variable.
-4. Run the code using the command python chatgpt.py
+4. Run the code using the command python talk2ai.py
 5. Speak your query to the microphone and the AI's response will be played back.
 
 
